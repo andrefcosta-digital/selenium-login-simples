@@ -1,0 +1,13 @@
+{
+  "name": "simple-login-selenium",
+  "version": "1.0.0",
+  "description": "Simple HTML login test with Selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "chromedriver": "^117.0.0",
+    "selenium-webdriver": "^4.0.0"
+  }
+}
